@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guide_padding">4dp</dimen>
+    <dimen name="guide_text_size">12sp</dimen>
+    <dimen name="content_margin_padding">4dp</dimen>
+</resources>

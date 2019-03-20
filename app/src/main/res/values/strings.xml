@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JsonParsing</string>
+    <string name="question">Question</string>
+    <string name="option_one">Option One</string>
+    <string name="option_two">Option Two</string>
+</resources>
